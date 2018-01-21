@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Patrick's Web Log
 header-img: img/home-bg.png
 email: patrick.eells@gmail.com
 copyright_name: pi-track
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog about the things I find interesting.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: patrickeells
 github_username:  pi-track
