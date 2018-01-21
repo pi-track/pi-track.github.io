@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Tool Man       "
-date:       2018-01-21 16:47:49 +0000
+title:      "Tool Man: Why I Decided to Learn to Code   "
+date:       2018-01-21 11:47:50 -0500
 permalink:  tool_man
 ---
 
